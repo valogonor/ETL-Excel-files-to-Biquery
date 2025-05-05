@@ -1,0 +1,7 @@
+flask
+pandas
+openpyxl
+google-cloud-storage
+google-cloud-bigquery
+pyarrow
+pandas_gbq
